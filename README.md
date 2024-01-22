@@ -16,6 +16,6 @@ Más de 25 años de experiencia profesional programando en diferentes sectores y
     
 ### Otra formación
   - Microsoft Certified Azure Fundamentals (AZ-900)
-  - Actualmente preparando certificación AZ-400  
+  - Actualmente preparando certificación AZ-204  
       
       
