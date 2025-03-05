@@ -16,11 +16,11 @@ Más de 27 años de experiencia profesional programando en diferentes sectores y
   - Angular
   - Blazor, Razor, MVC  
   - Xamarin   
-  - Docker
+  - Docker, OpenTelemtry, API Gateway Ocelot 
     
 ### Otra formación
   - Microsoft Certified Azure Fundamentals
-  - Preparando Microsoft Azure AI Fundamentals
+  - Preparando certificación Microsoft Azure AI Fundamentals
   - Cursando Experto IA en Machine Learning y Ciencia de Datos  
       
       
