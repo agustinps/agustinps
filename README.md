@@ -9,6 +9,7 @@ Más de 27 años de experiencia profesional programando en diferentes sectores y
   - .NET Framework y .NET (5,6,8) 
   - SQL Server y Transact SQL
   - Microservicios
+  - OpenTelemtry, API Gateway Ocelot 
   - RabbitMQ y ActiveMQ
   - Testing con xUnit y Moq
   - MongoDb
@@ -16,11 +17,11 @@ Más de 27 años de experiencia profesional programando en diferentes sectores y
   - Angular
   - Blazor, Razor, MVC  
   - Xamarin   
-  - Docker, OpenTelemtry, API Gateway Ocelot 
+  - Docker y Kubernetes
     
 ### Otra formación
   - Microsoft Certified Azure Fundamentals
   - Preparando certificación Microsoft Azure AI Fundamentals
-  - Cursando Experto IA en Machine Learning y Ciencia de Datos  
+  - Cursando Experto en Machine Learning y Ciencia de Datos  
       
       
